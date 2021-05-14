@@ -1,0 +1,27 @@
+.main-body {
+  width: 460px;
+  height: 530px;
+  border: solid beige;
+  background-color: gray;
+  margin-left: 40%;
+  margin-top: 10%;
+  padding: 0;
+}
+#screen {
+  width: 90%;
+  height: 68px;
+  margin-top: 40px;
+  margin-left: 4%;
+  margin-bottom: 20px;
+  pointer-events: none;
+}
+
+.btn {
+  padding: 4%;
+  width: 21%;
+  height: 25%;
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: medium;
+  background-color: sandybrown;
+}
